@@ -1,0 +1,9 @@
+Q3. Create a small calculator which only does ‘+’ or ‘-‘Operations. (Hint: Take three variable inputs with
+one being used for the operator)
+
+input a,b,opt
+if opt==+
+then print a+b
+else if opt==-
+then print a-b
+end
