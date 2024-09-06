@@ -1,4 +1,4 @@
-Q. Find the maximum number in any of three variables.
+Q1. Find the maximum number in any of three variables.
 
 Input a, b, c
 if a> b and b>c
