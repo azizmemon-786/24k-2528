@@ -1,0 +1,14 @@
+Q3. Implement an algorithm for making a simple calculator with all the operators (+,-,*,/,%)
+
+input number1 n1, number2 n2, opt
+if opt == +
+print ni+n2
+else if opt == -
+print n1-n2
+else if opt == *
+print n1*n2
+else if opt == / 
+print n1/n2
+else 
+print invalid operator
+end 
