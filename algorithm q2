@@ -1,0 +1,29 @@
+Q2. Implement an algorithm where the user enters a number, and an appropriate month is displayed.
+input number
+if number == 1
+print january
+else if number == 2
+print febuary
+else if number == 3
+print March
+else if number == 4
+print April
+else if number == 5
+print May
+else if number == 6
+print June
+else if number == 7
+print July
+else if number == 8
+print Augest
+else if number == 9
+print September
+else if number == 10
+print October
+else if number == 11
+print November
+else if number == 12
+print December
+else 
+Invalid number enter number between 1-12
+end
